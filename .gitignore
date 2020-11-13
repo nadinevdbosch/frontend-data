@@ -1,5 +1,3 @@
 /data
 *.csv
 .DS_Store
-/frontend-data.wiki
-/functional-programming.wiki
