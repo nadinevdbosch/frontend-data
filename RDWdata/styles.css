@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+
+rect {
+	fill: #B2D8C5;
+}
+
+h1 {
+  text-align: center;
+}
