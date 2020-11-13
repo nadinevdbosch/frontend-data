@@ -21,8 +21,15 @@ De Volkskrant is een Nederlands dagblad. Naast het NRC Handelsblad en Trouw word
 
 # Onderzoeksvragen
 
-### Waar verschillen taxi's en personenauto's met elkaar?
+### Wat zijn de verschillen in kenmerken van taxi's ten opzichte van personenauto's?
 
-* Is een taxi over het algemeen zuiniger dan een gewone personenauto?
-* Welke merken zijn vooral populair bij taxi's? en welke bij personenautos?
-* Welke kleur is het populairst?
+* Hoeveel procent van de taxi's heeft zuinigheidslabel A ten opzichte van personenautos?
+* Welke merken zijn populair bij Taxi's en welke door personenauto's?
+* Welke kleuren het meeste voor onder taxi's? En welke onder personenautos?
+
+# Eerste uitwerking van de barchart
+Dit zijn mijn eerste uitwerkingen van de barchart. Bij de eerste is de data over de kleuren van de personenautos ingeladen. In de 2e afbeelding is de data over de kleuren van de taxi's ingeladen.
+
+![Barchart personenautos](https://github.com/nadinevdbosch/frontend-data/blob/main/images/barchart-personenautos.png)
+
+![Barchart taxi's](https://github.com/nadinevdbosch/frontend-data/blob/main/images/barchart-taxis.png)
