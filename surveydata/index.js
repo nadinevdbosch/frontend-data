@@ -9,6 +9,8 @@ for(answer of surveyAnswers){
     listOfAnswers.push(answer[columnName]);
 }
 
+
+
 function cleanData() {
 
     //rgb omzetten naar hex
